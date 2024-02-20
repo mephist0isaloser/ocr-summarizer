@@ -1,5 +1,3 @@
-
-```markdown
 # OCR Notes Summarizer
 
 ## Overview
